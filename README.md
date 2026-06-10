@@ -10,7 +10,6 @@ I'm a non-engineer, but I love writing code. My work focuses on **driving AI ado
 
 - 🎓 Returned to graduate school as a working professional — earned a **Master of Technology in Information Systems** from the Graduate School of Industrial Technology, Advanced Institute of Industrial Technology (AIIT), in March 2025, **graduating with honors**
 - 🏆 Honors Graduate, **GCI (Global Consumer Intelligence) 2022 Winter** — a data science course offered by Matsuo-Iwasawa Lab, The University of Tokyo
-- 💻 Coding is my passion, not just my job
 
 ## 🌱 What I'm Into
 
