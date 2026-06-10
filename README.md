@@ -30,25 +30,26 @@ I'm a non-engineer, but I love writing code. My work focuses on **driving AI ado
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Languages (Main):** Python, TypeScript
-**Languages (Also use):** Rust
-**Frameworks:** FastAPI, Next.js
-**Cloud / Infrastructure:** Google Cloud (GCP), Firebase, Docker
-**Databases:** MySQL, Firestore
-**Focus areas:** AI / LLM utilization, AI agents, RAG, workflow automation
+- **Languages (Main):** Python, TypeScript
+- **Languages (Also use):** Rust
+- **Frameworks:** FastAPI, Next.js
+- **Cloud / Infrastructure:** Google Cloud (GCP), Firebase, Docker
+- **Databases:** MySQL, Firestore
+- **Focus areas:** AI / LLM utilization, AI agents, RAG, workflow automation
 
 ## 📜 Certifications
 
-### AI / Deep Learning (JDLA — Japan Deep Learning Association)
-- **E資格 (JDLA Deep Learning for ENGINEER)** — 2024
-- **G検定 (JDLA Deep Learning for GENERAL)** — 2023
+### AI / Deep Learning — Japan Deep Learning Association (JDLA)
+- **JDLA Deep Learning for ENGINEER (E資格)** — 2024
+- **JDLA Deep Learning for GENERAL (G検定)** — 2023
 
-### IT (IPA — Information-technology Promotion Agency, Japan)
+### Information Technology — Innovation Platform Agency, Japan (IPA)
 - **Project Manager Examination (PM)** — 2025
-- **Information Security Specialist Examination (SC, passed)** — 2022
+- **Registered Information Security Specialist Examination (SC, passed)** — 2022
 - **Applied Information Technology Engineer Examination (AP)** — 2022
 - **Fundamental Information Technology Engineer Examination (FE)** — 2022
 - **Information Security Management Examination (SG)** — 2021
 
 ### Programming
 - **Python 3 Engineer Certification Practical Examination** — 2026
+
