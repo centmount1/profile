@@ -8,11 +8,11 @@ Non-engineer who loves coding | Python, TypeScript, Rust | Driving AI adoption &
 
 ## About Me / 自己紹介
 
-I'm a non-engineer, but I love writing code. My work focuses on **driving AI adoption and business process automation**, bridging the gap between technical possibilities and real-world business needs.  
-私は非エンジニアですが、コードを書くことが好きです。現在は、**AI活用の推進と業務プロセスの自動化**に取り組み、技術的な可能性と実際のビジネスニーズをつなぐことを目指しています。
+I'm a non-engineer, but I love writing code. My work focuses on driving AI adoption and business process automation, bridging the gap between technical possibilities and real-world business needs.  
+私は非エンジニアですが、コードを書くことが好きです。現在は、AI活用の推進と業務プロセスの自動化に取り組み、技術的な可能性と実際のビジネスニーズをつなぐことを目指しています。
 
-- 🎓 Returned to graduate school as a working professional and earned a **Master of Technology in Information Systems** from the [Graduate School of Industrial Technology, Advanced Institute of Industrial Technology (AIIT)](https://aiit.ac.jp/master_program/isa/), in March 2025, **graduating with honors**  
-  🎓 社会人として大学院に進学し、2025年3月に[東京都立産業技術大学院大学 情報アーキテクチャコース](https://aiit.ac.jp/master_program/isa/)にて **情報システム学修士（専門職）** を取得、**成績優秀者**
+- 🎓 Returned to graduate school as a working professional and earned a Master of Technology in Information Systems from the [Graduate School of Industrial Technology, Advanced Institute of Industrial Technology (AIIT)](https://aiit.ac.jp/master_program/isa/), in March 2025, graduating with honors
+  🎓 社会人として大学院に進学し、2025年3月に[東京都立産業技術大学院大学 情報アーキテクチャコース](https://aiit.ac.jp/master_program/isa/)にて 情報システム学修士（専門職）を成績優秀者として取得
 
 - 🏆 Honors Graduate, [**GCI (Global Consumer Intelligence) 2022 Winter**](https://gci2.t.u-tokyo.ac.jp/student) — a data science course offered by Matsuo-Iwasawa Lab, The University of Tokyo  
   🏆 東京大学 松尾・岩澤研究室主催のデータサイエンス講座 [**GCI 2022 Winter**](https://gci2.t.u-tokyo.ac.jp/student) 優秀修了生
@@ -21,11 +21,11 @@ I'm a non-engineer, but I love writing code. My work focuses on **driving AI ado
 
 ## 🌱 What I'm Into / 興味・関心
 
-- 🤖 Building **AI agents**  
-  🤖 **AIエージェント**の開発
+- 🤖 Building AI agents
+  🤖 AIエージェントの開発
 
-- 📚 **RAG (Retrieval-Augmented Generation)**  
-  📚 **RAG（検索拡張生成）**
+- 📚 RAG (Retrieval-Augmented Generation) 
+  📚 RAG（検索拡張生成）
 
 ---
 
@@ -65,13 +65,13 @@ I'm a non-engineer, but I love writing code. My work focuses on **driving AI ado
 ## 📜 Certifications / 資格
 
 ### AI / Deep Learning — [Japan Deep Learning Association (JDLA)](https://www.jdla.org/)  
-### AI / ディープラーニング — [日本ディープラーニング協会（JDLA）](https://www.jdla.org/)
+### [日本ディープラーニング協会（JDLA）](https://www.jdla.org/)
 
 - **JDLA Deep Learning for ENGINEER (E資格)** — 2024#1 
 - **JDLA Deep Learning for GENERAL (G検定)** — 2023#5
 
 ### Information Technology — [Innovation Platform Agency, Japan (IPA)](https://www.ipa.go.jp/)  
-### 情報処理技術者試験 — [情報処理推進機構（IPA）](https://www.ipa.go.jp/)
+### 情報処理技術者試験 合格 — [情報処理推進機構（IPA）](https://www.ipa.go.jp/)
 
 - **Project Manager Examination (PM)** — 2025  
   **プロジェクトマネージャ試験（PM）** — 2025
