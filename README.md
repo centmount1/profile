@@ -65,7 +65,7 @@ I'm a non-engineer, but I love writing code. My work focuses on driving AI adopt
 ## 📜 Certifications / 資格
 
 ### AI / Deep Learning — [Japan Deep Learning Association (JDLA)](https://www.jdla.org/)  
-### [日本ディープラーニング協会（JDLA）](https://www.jdla.org/)
+### AI / 機械学習 -  [日本ディープラーニング協会（JDLA）](https://www.jdla.org/)
 
 - **JDLA Deep Learning for ENGINEER (E資格)** — 2024#1 
 - **JDLA Deep Learning for GENERAL (G検定)** — 2023#5
@@ -85,3 +85,7 @@ I'm a non-engineer, but I love writing code. My work focuses on driving AI adopt
 - **Fundamental Information Technology Engineer Examination (FE)** — 2022  
   **基本情報技術者試験（FE）** — 2022
 
+### Python — [一般社団法人Pythonエンジニア育成推進協会](https://www.pythonic-exam.com/exam/jissen)  
+
+- **Python 3 Certified Engineer Practical Examination** — 2026  
+  **Python 3 エンジニア認定実践試験** — 2026
