@@ -67,11 +67,8 @@ I'm a non-engineer, but I love writing code. My work focuses on **driving AI ado
 ### AI / Deep Learning — [Japan Deep Learning Association (JDLA)](https://www.jdla.org/)  
 ### AI / ディープラーニング — [日本ディープラーニング協会（JDLA）](https://www.jdla.org/)
 
-- **JDLA Deep Learning for ENGINEER (E資格)** — 2024  
-  **JDLA Deep Learning for ENGINEER（E資格）** — 2024
-
-- **JDLA Deep Learning for GENERAL (G検定)** — 2023  
-  **JDLA Deep Learning for GENERAL（G検定）** — 2023
+- **JDLA Deep Learning for ENGINEER (E資格)** — 2024#1 
+- **JDLA Deep Learning for GENERAL (G検定)** — 2023#5
 
 ### Information Technology — [Innovation Platform Agency, Japan (IPA)](https://www.ipa.go.jp/)  
 ### 情報処理技術者試験 — [情報処理推進機構（IPA）](https://www.ipa.go.jp/)
@@ -80,7 +77,7 @@ I'm a non-engineer, but I love writing code. My work focuses on **driving AI ado
   **プロジェクトマネージャ試験（PM）** — 2025
 
 - **Registered Information Security Specialist Examination (SC, passed)** — 2022  
-  **情報処理安全確保支援士試験（SC、合格）** — 2022
+  **情報処理安全確保支援士試験（SC）** — 2022
 
 - **Applied Information Technology Engineer Examination (AP)** — 2022  
   **応用情報技術者試験（AP）** — 2022
