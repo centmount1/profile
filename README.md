@@ -62,7 +62,15 @@ I'm a non-engineer, but I love writing code. My work focuses on driving AI adopt
 
 ---
 
-## 📜 Certifications / 資格
+## 📜 Licenses & Certifications / 資格
+
+### 🪪 National Licenses / 国家資格
+
+- **Registered Information Security Specialist (RISS)** — Registered Oct 2026 (passed exam in 2022)  
+  **情報処理安全確保支援士（登録セキスペ）** — 2026年10月登録（2022年 試験合格）
+
+- **Licensed Pharmacist (Japan, MHLW)** — Registered 1998  
+  **薬剤師** — 1998年登録
 
 ### AI / Deep Learning — [Japan Deep Learning Association (JDLA)](https://www.jdla.org/)  
 ### AI / 機械学習 -  [日本ディープラーニング協会（JDLA）](https://www.jdla.org/)
